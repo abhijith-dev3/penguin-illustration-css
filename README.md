@@ -1,7 +1,7 @@
 This is a fun illustration of a penguin created using only HTML and CSS.
 The design includes a landscape, sun, mountains, and a stylized penguin with a shirt saying “I ❤️ CSS”.
 
-#[demo]()
+##[demo]()
 
 ✨ Features
 
